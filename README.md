@@ -6,7 +6,28 @@ A sleek **React Native mobile app** to discover movies, explore details, and cur
 
 ## 📸 Preview
 
-> *Add screenshots or a small GIF of your app running here for extra sparkle!*
+IOS Device-
+
+<p align="center">
+  <img src="Screenshots/1Iphone.jpg" alt="Movie App Screenshot" height="500" width="250" style="margin-right: 10px;"/>
+  <img src="Screenshots/2Iphone.jpg" alt="Movie App Screenshot" height="500" width="250" style="margin-right: 10px;"/>
+  <img src="Screenshots/3Iphone.jpg" alt="Movie App Screenshot" height="500" width="250" style="margin-right: 10px;"/>
+  <img src="Screenshots/4Iphone.jpg" alt="Movie App Screenshot" height="500" width="250" style="margin-right: 10px;"/>
+  <img src="Screenshots/5Iphone.jpg" alt="Movie App Screenshot" height="500" width="250"/>
+</p>
+
+Web On Wndows
+
+<p align="center">
+  <img src="Screenshots/1WebWindows.png" alt="Movie App Screenshot" height="250" width="400" style="margin-right: 10px;"/>
+  <img src="Screenshots/2WebWindows.png" alt="Movie App Screenshot" height="250" width="400" style="margin-right: 10px;"/>
+  <img src="Screenshots/3WebWindows.png" alt="Movie App Screenshot" height="250" width="400" style="margin-right: 10px;"/>
+  <img src="Screenshots/4WebWindows.png" alt="Movie App Screenshot" height="250" width="400" style="margin-right: 10px;"/>
+  <img src="Screenshots/5WebWindows.png" alt="Movie App Screenshot" height="250" width="400" style="margin-right: 10px;"/>
+  
+  </p>
+
+
 
 ---
 
